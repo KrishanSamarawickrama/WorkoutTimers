@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkoutTimers.Lib", "WorkoutTimers.Lib\WorkoutTimers.Lib.csproj", "{9CB42921-0317-4E44-BC7A-188086D2E341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkoutTimers.App", "WorkoutTimers.App\WorkoutTimers.App.csproj", "{0E9069AE-0FCE-4B4C-B85E-17652FC5FD95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB42921-0317-4E44-BC7A-188086D2E341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB42921-0317-4E44-BC7A-188086D2E341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB42921-0317-4E44-BC7A-188086D2E341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB42921-0317-4E44-BC7A-188086D2E341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9069AE-0FCE-4B4C-B85E-17652FC5FD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9069AE-0FCE-4B4C-B85E-17652FC5FD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9069AE-0FCE-4B4C-B85E-17652FC5FD95}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0E9069AE-0FCE-4B4C-B85E-17652FC5FD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9069AE-0FCE-4B4C-B85E-17652FC5FD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9069AE-0FCE-4B4C-B85E-17652FC5FD95}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86BFF83-6070-4F94-B6C9-9279F1919C9F}
+	EndGlobalSection
+EndGlobal

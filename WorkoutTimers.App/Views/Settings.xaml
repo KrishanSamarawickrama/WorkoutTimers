@@ -4,8 +4,8 @@
              x:Class="WorkoutTimers.App.Views.Settings"
              Title="Settings">
     <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
+        <Label x:Name="msgLabel"
+            Text="Settings!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>
